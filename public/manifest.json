@@ -6,15 +6,15 @@
   "action": {
     "default_popup": "index.html",
     "default_icon": {
-      "16": "favicon.svg",
-      "48": "favicon.svg",
-      "128": "favicon.svg"
+      "16": "favicon-16.png",
+      "48": "favicon-48.png",
+      "128": "favicon-128.png"
     }
   },
   "icons": {
-    "16": "favicon.svg",
-    "48": "favicon.svg",
-    "128": "favicon.svg"
+    "16": "favicon-16.png",
+    "48": "favicon-48.png",
+    "128": "favicon-128.png"
   },
   "permissions": ["storage"]
 }
