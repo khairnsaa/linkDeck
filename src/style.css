@@ -31,10 +31,10 @@ a:hover {
 
 body {
   margin: 0;
-  min-width: 320px;
-  min-height: 100vh;
-  /* width: 400px;
-  height: 600px; */
+  /* min-width: 320px;
+  min-height: 100vh; */
+  width: 400px;
+  height: 600px;
   overflow-y: auto;
 }
 
